@@ -12,4 +12,4 @@ I've got a portfolio at [birla.io](https://birla.io), and I'm building [Loop](ht
 - 🎮 Gaming (especially strategy games)
 - 🤔 Philosophy
 
-fao ip po. sem qam li [li kam min no](https://min.vercel.app)
+fao ip po. sem qam li [li kam min no](https://min.nilae.us)
