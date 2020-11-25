@@ -7,9 +7,10 @@ I've got a portfolio at [birla.io](https://birla.io), and I'm building [Loop](ht
 <!-- TODO: Fix the Loop summary -->
 
 #### I've got interests in:
+
 - 🖥️ Tech (of all kinds)
-- 🌏 Worldbuilding (especially cultures & languages)
+- 🌏 Worldbuilding (especially cultures & languages\*)
 - 🎮 Gaming (especially strategy games)
 - 🤔 Philosophy
 
-fao ip po. sem qam li [li kam min no](https://min.nilae.us)
+\*check out [Minno](https://minno.birla.io)
