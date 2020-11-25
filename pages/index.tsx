@@ -7,11 +7,15 @@ import {
   Link,
   Text,
 } from "@chakra-ui/react";
+import Head from "next/head";
 import { Buttons } from "../components/Buttons";
 import { Footer } from "../components/Footer";
 
 const IndexPage = () => (
   <Box>
+    <Head>
+      <title>Louis Birla</title>
+    </Head>
     <Box as="main" minH="100vh">
       <Center px="1rem" textAlign="center" flexDirection="column" pt="5rem">
         <Avatar
