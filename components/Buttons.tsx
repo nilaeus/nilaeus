@@ -17,7 +17,7 @@ export const Buttons: React.FC<BoxProps> = (props) => (
         icon={<Icon as={GitHub} />}
       />
     </Link>
-    <Link href="https://www.linkedin.com/in/louis-birla/">
+    <Link href="https://www.linkedin.com/in/louisbirla/">
       <IconButton
         colorScheme="blue"
         aria-label="Louis's LinkedIn"
